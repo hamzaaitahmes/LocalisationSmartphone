@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LocalisationSmartphone</string>
+    <string name="provider_enabled">Fournisseur %s activé</string>
+    <string name="provider_disabled">Fournisseur %s désactivé</string>
+    <string name="new_location">Nouvelle position : Lat %1$s, Lon %2$s</string>
+</resources>
